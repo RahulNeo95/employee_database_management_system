@@ -187,8 +187,7 @@ if z=='get_emp':
         break
 
 print()
-print('Following operations you can perform: \n1) add_emp, 2)edit_emp, 3)get_emp')
-z=input('Please Enter from the above 3 choices: ')
+
             
 
 
